@@ -8,6 +8,7 @@ Flag:
 --f Enable fid mode
 --d Enable debug messages
 
-Sample usage:
+## Sample usage
+```bash
 jfix.py --f --p /[some file location]/
-
+```
